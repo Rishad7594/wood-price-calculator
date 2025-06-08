@@ -11,7 +11,7 @@ def nearest_standard_size(inches):
             return s
     return STANDARD_SIZES[-1]
 
-st.title("🚪 Multi-Door Price Estimator with Extra Horizontal Frames")
+st.title("🚪 Multiple Doors and windows Price Estimator")
 
 st.markdown("### Enter data for each door below:")
 
